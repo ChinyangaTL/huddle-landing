@@ -33,7 +33,7 @@ screenshot of desktop solution
 ### Links
 
 - Solution URL: [https://github.com/ChinyangaTL/huddle-landing](https://github.com/ChinyangaTL/huddle-landing)
-- Live Site URL: [https://chinyangatl.github.io/huddle-landing/](https://chinyangatl.github.io/huddle-landing/)]
+- Live Site URL: [https://chinyangatl.github.io/huddle-landing/](https://chinyangatl.github.io/huddle-landing/)
 
 ## My process
 
